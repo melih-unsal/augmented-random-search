@@ -41,4 +41,4 @@ In the beginning of training the agent will barely stand on the environment. And
 ![ezgif com-gif-maker2](https://user-images.githubusercontent.com/35776307/42407631-9c72b998-81dd-11e8-8bb5-05717dc0adb9.gif)
 
 
-The improvement of agent performance on environment can be seen from above gif's.
+The improvement of agent's performance on the environment can be seen from above gif's.

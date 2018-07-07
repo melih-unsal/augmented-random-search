@@ -5,7 +5,7 @@ It is based on shallow learning method. It has a input layer which accepts a vec
 of the environment state and then after multiplying them with the weights and passing through an
 activation function, it gives an output to the agent about the action it should perform on environment.
 It's different from other reinforcement learning models because it doesn't have any deep neural net
-between its input and output layer.Alsp, It doesn't work on action space, it works on policy space.
+between its input and output layer.Also, It doesn't work on action space, it works on policy space.
 
 ## Weights optimisation
 ARS uses a different approach to optimise its weight. Unlike other algorithms, it uses finite difference approach

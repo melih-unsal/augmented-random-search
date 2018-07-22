@@ -1,6 +1,6 @@
 # Augmented Random Search (ARS)
 
-ARS is a latest A.I algorithm proposed on march 2018.
+ARS is a latest A.I algorithm proposed in march 2018.
 It is based on shallow learning method. It has a input layer which accepts a vector
 of the environment state and then after multiplying them with the weights and passing through an
 activation function, it gives an output to the agent about the action it should perform on environment.
